@@ -1,0 +1,20 @@
+{
+  "valid":
+  {
+    "address_optional": null,
+    "billing_address": "somewhere",
+    "city": "Jaipur",
+    "company": "Think&Co.",
+    "country": "India",
+    "email": "nitin@mongo1.com",
+    "first_name": "Nitin",
+    "industry": null,
+    "last_name": "Chetwani",
+    "organization": "Think&Co.",
+    "state": null,
+    "work_phone": "9166123456",
+    "zip": "302020",
+    "password": "123456"
+  }
+}
+

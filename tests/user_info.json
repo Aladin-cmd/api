@@ -1,0 +1,38 @@
+{
+  "valid_user":
+  {
+    "email": "sund@gmail.com",
+    "password": "123"
+  },
+  "non-ex_user":
+  {
+    "email": "notthere@gmail.com",
+    "password": "123456"
+  },
+  "no_email":
+  {
+    "email": "",
+    "password": "123456"
+  },
+  "no_password":
+  {
+    "email":"sund@gmail.com",
+    "password": ""
+  },
+  "empty_full":
+  {
+    "email": "",
+    "password": ""
+  },
+  "wrong_email_format":
+  {
+    "email": "sund.com",
+    "password": "123456"
+  },
+  "wrong_password":
+  {
+    "email": "sund@gmail.com",
+    "password": "234521323"
+  }
+}
+
